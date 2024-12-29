@@ -1,9 +1,5 @@
-# Take-home-challenge: Build autonomous vehicle AI system
+# Vehicals & Pedestrian Detection
 
 ## Overview
-This project aim to build autonomous vehicle AI system tailored for rural environments, focusing on three critical tasks: known object detection, novel object detection, and collision avoidance.
+Finetuning YOLOv8n for known object (vehicals & pedestrian) detection in urban.
 
-## Running code
-
-Run Known Object Detection _ YOLOv8n.ipynb for fine tuning model
-Run system.ipynb for system running
